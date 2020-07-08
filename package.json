@@ -1,0 +1,15 @@
+{
+  "name": "@peterbardawil/package-management",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "package management with npm",
+  "repository": "https://github.com/bardawilpeter/learn",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.1"
+  }
+}
