@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": "package management with npm",
-  "repository": "https://github.com/bardawilpeter/learn",
+  "repository": "https://github.com/bardawilpeter/how-to-npm.git",
   "dependencies": {
     "@linclark/pkg": "^1.0.1"
   }
